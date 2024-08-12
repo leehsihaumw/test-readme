@@ -3,6 +3,12 @@ Testing the capability of markdown-it &
 
 ## test $ in text
 
+## test .md in README (relative path)
+![something.md](/something.md)
+
+## test .md in README (full path)
+![something.md](https://github.com/leehsihaumw/test-readme/blob/main/something.md)
+
 ## video (drag and drop to GitHub README editor)
 https://github.com/leehsihaumw/test-readme/assets/151086072/dd1d000f-f6cb-439f-bad6-d653fcac2c2a
 
