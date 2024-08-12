@@ -27,6 +27,9 @@ https://github.com/leehsihaumw/test-readme/raw/main/1072815-hd_1920_1080_30fps.m
 ## test relative path
 ![Yosemite](/Images/Yosemite.png)
 
+## test full path
+![Yosemite](https://github.com/leehsihaumw/test-readme/blob/main/Images/Yosemite.png)
+
 ## log files
 [test-example.log](https://github.com/leehsihaumw/test-readme/files/15279114/test-example.log)
 
