@@ -85,6 +85,9 @@ _You **can** combine them_
       1. Item 1a1
          1. Item 1a1a
             1. Item 1a1a1
+    2. Item 2a
+       1. Item 2a1
+    4. Item 3a
 
 ## Code
 `This is inline code`
