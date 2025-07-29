@@ -15,6 +15,9 @@ https://github.com/leehsihaumw/test-readme/assets/151086072/dd1d000f-f6cb-439f-b
 ## video (drag and drop to GitHub repo and use the repo URL)
 https://github.com/leehsihaumw/test-readme/raw/main/1072815-hd_1920_1080_30fps.mp4
 
+## video (YouTube link)
+https://www.youtube.com/watch?v=jNQXAC9IVRw&ab_channel=jawed
+
 ## test GIF
 ![giphy](https://github.com/leehsihaumw/test-readme/assets/151086072/9cb82a73-886f-4bb9-8e96-d5445d275811)
 
